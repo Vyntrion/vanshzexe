@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**yesvanshzoffical/yesvanshzoffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot Developer**. I love building **scalable web apps, custom Minecraft launchers, and automation tools**.  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 Currently working on **YesDo Dev** (Marketing & Development)  
+- 🌱 Learning **React, Vite, and advanced backend development**  
+- 👯 Looking to collaborate on **open-source projects & startups**  
+- 💬 Ask me about **web development, Discord bots, Minecraft launchers**  
+- ⚡ Fun fact: I started coding at **11 years old**!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+💻 **Languages**: Java, JavaScript, Python, PHP  
+⚙️ **Frameworks & Tools**: React, Vite, Node.js, Gradle, Tailwind CSS  
+🖥️ **Other Skills**: Web Hosting, API Integration, Server Management  
+
+### 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-Yesvanshz-181717?style=flat-square&logo=github)](https://github.com/yesvanshzoffical)  
+[![Discord](https://img.shields.io/badge/Discord-Yesvanshz-5865F2?style=flat-square&logo=discord)](#)  
+[![Website](https://img.shields.io/badge/Website-Coming%20Soon-00A3E0?style=flat-square&logo=react)](#)  
