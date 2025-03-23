@@ -3,7 +3,7 @@
 I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot Developer**. I love building **scalable web apps, custom Minecraft launchers, and automation tools**.  
 
 ### 🚀 About Me  
-- 🔭 Currently working on **YesDo Dev** (Marketing & Development)  
+- 🔭 Currently working on **YesDoDevs** (Marketing & Development)  
 - 🌱 Learning **React, Vite, and advanced backend development**  
 - 👯 Looking to collaborate on **open-source projects & startups**  
 - 💬 Ask me about **web development, Discord bots, Minecraft launchers**  
@@ -17,4 +17,4 @@ I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Yesvanshz-181717?style=flat-square&logo=github)](https://github.com/yesvanshzoffical)  
 [![Discord](https://img.shields.io/badge/Discord-Yesvanshz-5865F2?style=flat-square&logo=discord)](#)  
-[![Website](https://img.shields.io/badge/Website-PortFolio%20Soon-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)  
+[![Website](https://img.shields.io/badge/Website-PortFolio-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)  
