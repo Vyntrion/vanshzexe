@@ -10,11 +10,11 @@ I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot
 - ⚡ Fun fact: I started coding at **11 years old**!  
 
 ### 🛠️ Tech Stack  
-💻 **Languages**: Java, JavaScript, Python, PHP  
+💻 **Languages**: NodeJs, JavaScript, Python, PHP  
 ⚙️ **Frameworks & Tools**: React, Vite, Node.js, Gradle, Tailwind CSS  
 🖥️ **Other Skills**: Web Hosting, API Integration, Server Management  
 
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Yesvanshz-181717?style=flat-square&logo=github)](https://github.com/yesvanshzoffical)  
 [![Discord](https://img.shields.io/badge/Discord-Yesvanshz-5865F2?style=flat-square&logo=discord)](#)  
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)  
+[![Website](https://img.shields.io/badge/Website-PortFolio%20Soon-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)  
