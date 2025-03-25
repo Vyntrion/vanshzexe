@@ -18,3 +18,4 @@ I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot
 [![GitHub](https://img.shields.io/badge/GitHub-Yesvanshz-181717?style=flat-square&logo=github)](https://github.com/yesvanshzoffical)  
 [![Discord](https://img.shields.io/badge/Discord-Yesvanshz-5865F2?style=flat-square&logo=discord)](#)  
 [![Website](https://img.shields.io/badge/Website-PortFolio-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0ab54f9-dc1e-4178-9128-435951832e14/deploy-status)](https://app.netlify.com/sites/yesdodevs/deploys)
