@@ -19,5 +19,6 @@ I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot
 [![Discord](https://img.shields.io/badge/Discord-Yesvanshz-5865F2?style=flat-square&logo=discord)](https://discord.notvanshz.online)  
 [![Website](https://img.shields.io/badge/Website-PortFolio-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)  
 <a href="https://notvanshz.online">
-  <img src="https://notvanshz.online/assets/logo.webp" width="150" alt="YesDo Devs">
+  <img src="https://notvanshz.online/assets/logo.webp" width="40" alt="YesDo Devs" align="center">
+  <b> YesDo Devs</b>
 </a>
