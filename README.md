@@ -23,7 +23,7 @@ I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot
     <td align="center" style="background: #1E1E1E; padding: 10px; border-radius: 10px;">
       <a href="https://notvanshz.online" style="text-decoration: none; color: white;">
         <img src="https://notvanshz.online/assets/logo.webp" width="40" style="border-radius: 5px;"><br>
-        <b>YesDo Devs</b>
+        <b>YesDoDevs</b>
       </a>
     </td>
   </tr>
