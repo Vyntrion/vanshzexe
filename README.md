@@ -7,7 +7,7 @@ I'm **Vansh (aka YesVanshz)**, a passionate **Full-Stack Developer & Discord Bot
 - 🌱 Learning **React, Vite, and advanced backend development**  
 - 👯 Looking to collaborate on **open-source projects & startups**  
 - 💬 Ask me about **web development, Discord bots, Minecraft launchers**  
-- ⚡ Fun fact: I started coding at **11 years old**!  
+- ⚡ Fun fact: I started coding at **11 years old**! 
 
 ### 🛠️ Tech Stack  
 💻 **Languages**: NodeJs, JavaScript, Python, PHP  
