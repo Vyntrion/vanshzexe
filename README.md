@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00A3E0;">Vansh (aka YesVanshz)</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00A3E0;">Vansh (aka vanshzexe)</span></h1>
 <p align="center"><b>Full-Stack Developer | Discord Bot Expert | Minecraft Modding Enthusiast</b></p>
 
 ---
@@ -60,8 +60,8 @@ I'm **Vansh Baghel**, a self-taught developer who began programming at just **11
 
 ### 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yesvanshz-181717?style=flat-square&logo=github)](https://github.com/vanshzexe)  
-[![Discord](https://img.shields.io/badge/Discord-Yesvanshz-5865F2?style=flat-square&logo=discord)](https://discord.notvanshz.online)  
+[![GitHub](https://img.shields.io/badge/GitHub-vanshzexe-181717?style=flat-square&logo=github)](https://github.com/vanshzexe)  
+[![Discord](https://img.shields.io/badge/Discord-vanshzexe-5865F2?style=flat-square&logo=discord)](https://discord.notvanshz.online)  
 [![Website](https://img.shields.io/badge/Website-PortFolio-00A3E0?style=flat-square&logo=react)](https://portfolio.notvanshz.online)
 
 ---
