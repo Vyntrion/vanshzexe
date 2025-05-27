@@ -67,7 +67,7 @@
 
 > 🚩 **Website:** [play.vanshz.xyz](https://minecraft.vanshz.xyz)  
 > 🖥️ **Server IP:** `mc.vanshz.xyz`  
-> 💬 **Discord:** [Join VanshzMc Community](https://discord.gg/your-invite-code)  
+> 💬 **Discord:** [Join VanshzMc Community](https://discord.com/invite/HZWQgXSr)  
 > 🎉 **About:** A custom Minecraft SMP packed with unique plugins, events, and a friendly community. Built with love (and lots of code) by yours truly!
 
 ---
