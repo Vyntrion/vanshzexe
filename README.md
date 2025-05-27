@@ -65,7 +65,7 @@
 
 ## 🎮 VanshzMc - My Minecraft Server
 
-> 🚩 **Website:** [play.vanshz.xyz](https://play.vanshz.xyz)  
+> 🚩 **Website:** [play.vanshz.xyz](https://minecraft.vanshz.xyz)  
 > 🖥️ **Server IP:** `mc.vanshz.xyz`  
 > 💬 **Discord:** [Join VanshzMc Community](https://discord.gg/your-invite-code)  
 > 🎉 **About:** A custom Minecraft SMP packed with unique plugins, events, and a friendly community. Built with love (and lots of code) by yours truly!
@@ -118,7 +118,7 @@
 
 ## 📬 Contact
 
-- 📧 **General Contact:** [contact@vanshz.xyz](mailto:contact@vanshz.xyz)
+- 📧 **General Contact:** [contact@vanshz.xyz](mailto:vanshz.exe@vanshz.xyz)
 - 💸 **Sponsorships:** [sponsor@vanshz.xyz](mailto:sponsor@vanshz.xyz)
 
 ---
