@@ -12,7 +12,7 @@
 - 🏆 Winner & Finalist in multiple coding competitions  
 - 🏋️‍♂️ Fitness enthusiast & gamer in spare time  
 - 📫 Reach me at: vanshzexe@vanshz.xyz  
-- 🌐 Portfolio: [vanshzexe.me](https://vanshz.xyz/)  
+- 🌐 Portfolio: [vanshz.xyz](https://vanshz.xyz/)  
 - 🗣️ Pronouns: he/him  
 - ⚡ Motto: *"Never stop learning, never stop building."*
 
