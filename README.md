@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmbzhxOW16czJsNGJsdXRyM2J6aTBxOWk0MTJhNm1uczdxaHV3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r3oOLlq6oKUw2TCMKD/giphy.gif" alt="Pomodoro Timer" width="40" height="40" style="vertical-align: middle;"/> Hi, I'm **Vansh Baghel**
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmbzhxOW16czJsNGJsdXRyM2J6aTBxOWk0MTJhNm1uczdxaHV3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r3oOLlq6oKUw2TCMKD/giphy.gif" alt="Pomodoro Timer" width="50" height="50"/> Vyntrion
 
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="270"/>
 
@@ -11,25 +11,25 @@
 - 🎓 Student of Computer Science | Hackathon Enthusiast  
 - 🏆 Winner & Finalist in multiple coding competitions  
 - 🏋️‍♂️ Fitness enthusiast & gamer in spare time  
-- 📫 Reach me at: vanshzexe@vanshz.xyz  
-- 🌐 Portfolio: [vanshz.xyz](https://vanshz.xyz/)  
+- 📫 Reach me at: vyntrion@vyntrion.xyz  
+- 🌐 Portfolio: [vyntrion.xyz](https://vyntrion.xyz/)  
 - 🗣️ Pronouns: he/him  
 - ⚡ Motto: *"Never stop learning, never stop building."*
 
 ---
 
-## <img src="https://media.giphy.com/media/dhGGpFEXFUN63MVaSR/giphy.gif?cid=ecf05e47oq0jsif8iqlwytewfowdp373e58zj3dk2osa7ljk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" height="40" alt="social"> Let's Connect
+## <img src="https://media.giphy.com/media/dhGGpFEXFUN63MVaSR/giphy.gif?cid=ecf05e47oq0jsif8iqlwytewfowdp373e58zj3dk2osa7ljk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" height="40" alt="social"/>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your-youtube)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/yourpinterest)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshzexe@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyntrion@gmail.com)
 
 ---
 
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp1NHhqZzczODdxZDg0dzFwNWd2NzZrcjIxNmpxeTJyb3N3MmQ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40" height="40" alt="laptop"> Tech Toolbox
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp1NHhqZzczODdxZDg0dzFwNWd2NzZrcjIxNmpxeTJyb3N3MmQ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40" height="40" alt="skills"/>
 
 <div align="left">
 
@@ -78,27 +78,27 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG80bjUxNXo2cm9iYnVrb2I0bWI2MGtveXQ3aWJsNDJlemZqd2ZjeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9A4VXopO66WMraBtss/giphy.gif" width="40" height="40" alt="stats"> GitHub Stats
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG80bjUxNXo2cm9iYnVrb2I0bWI2MGtveXQ3aWJsNDJlemZqd2ZjeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9A4VXopO66WMraBtss/giphy.gif" width="40" height="40" alt="stats"/>
 
-![](https://github-readme-stats.vercel.app/api?username=vanshzexe&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=vanshzexe&theme=vision-friendly-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshzexe&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZxZGQ1MWQwYm81Y2p5YWk1MG92Z3BibDVxY3p0c3Q4YmdkZ3huYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VGUxZZPz33xqyqDlUF/giphy.gif" width="40" height="40" alt="trophy"> Achievements & Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vanshzexe&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Vyntrion&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Vyntrion&theme=vision-friendly-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyntrion&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNpZm9vaXNicXUyMmowcGw4NWxwNGd2YTlxcTFrOG00ZGN0NDc2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJy4x1YfXJFQBDY824/giphy.gif" width="40" height="40" alt="repo"> Most Active Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZxZGQ1MWQwYm81Y2p5YWk1MG92Z3BibDVxY3p0c3Q4YmdkZ3huYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VGUxZZPz33xqyqDlUF/giphy.gif" width="40" height="40" alt="trophy"/>
 
-![](https://github-contributor-stats.vercel.app/api?username=vanshzexe&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=Vyntrion&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNpZm9vaXNicXUyMmowcGw4NWxwNGd2YTlxcTFrOG00ZGN0NDc2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJy4x1YfXJFQBDY824/giphy.gif" width="40" height="40" alt="quote"> Dev Quote of the Day
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNpZm9vaXNicXUyMmowcGw4NWxwNGd2YTlxcTFrOG00ZGN0NDc2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJy4x1YfXJFQBDY824/giphy.gif" width="40" height="40" alt="contributor"/>
+
+![](https://github-contributor-stats.vercel.app/api?username=Vyntrion&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
+---
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNpZm9vaXNicXUyMmowcGw4NWxwNGd2YTlxcTFrOG00ZGN0NDc2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJy4x1YfXJFQBDY824/giphy.gif" width="40" height="40" alt="quotes"/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -122,7 +122,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vanshzexe&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vyntrion&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!--
 ✨ Crafted professionally with animated flair and modern developer spirit  
