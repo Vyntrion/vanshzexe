@@ -42,7 +42,7 @@ My work blends code, creativity, and collaboration—driven by curiosity and a l
 ## 🌟 Projects & Highlights
 
 - **Portfolio:** [vanshz.xyz](https://vanshz.xyz/)
-- **Hackathon Achievements:** Winner & finalist in multiple national competitions.
+- **VYZEDU INFORMATION:** All Type Of Tech We Use To Make Study Fun.
 - **Open Source:** Multiple contributions to widely used projects.
 
 ---
